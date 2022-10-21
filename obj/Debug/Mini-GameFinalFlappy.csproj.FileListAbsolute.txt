@@ -1,0 +1,10 @@
+C:\Users\youss\Desktop\UNIVERSITY SHIT\YEAR 2\SEMESTER 2\CS232 - Multi-Media Programming\Projects\Mini-GameFinalFlappy\bin\Debug\Mini-GameFinalFlappy.exe.config
+C:\Users\youss\Desktop\UNIVERSITY SHIT\YEAR 2\SEMESTER 2\CS232 - Multi-Media Programming\Projects\Mini-GameFinalFlappy\bin\Debug\Mini-GameFinalFlappy.exe
+C:\Users\youss\Desktop\UNIVERSITY SHIT\YEAR 2\SEMESTER 2\CS232 - Multi-Media Programming\Projects\Mini-GameFinalFlappy\bin\Debug\Mini-GameFinalFlappy.pdb
+C:\Users\youss\Desktop\UNIVERSITY SHIT\YEAR 2\SEMESTER 2\CS232 - Multi-Media Programming\Projects\Mini-GameFinalFlappy\obj\Debug\Mini-GameFinalFlappy.csprojAssemblyReference.cache
+C:\Users\youss\Desktop\UNIVERSITY SHIT\YEAR 2\SEMESTER 2\CS232 - Multi-Media Programming\Projects\Mini-GameFinalFlappy\obj\Debug\Mini_GameFinalFlappy.Properties.Resources.resources
+C:\Users\youss\Desktop\UNIVERSITY SHIT\YEAR 2\SEMESTER 2\CS232 - Multi-Media Programming\Projects\Mini-GameFinalFlappy\obj\Debug\Mini-GameFinalFlappy.csproj.GenerateResource.cache
+C:\Users\youss\Desktop\UNIVERSITY SHIT\YEAR 2\SEMESTER 2\CS232 - Multi-Media Programming\Projects\Mini-GameFinalFlappy\obj\Debug\Mini-GameFinalFlappy.csproj.CoreCompileInputs.cache
+C:\Users\youss\Desktop\UNIVERSITY SHIT\YEAR 2\SEMESTER 2\CS232 - Multi-Media Programming\Projects\Mini-GameFinalFlappy\obj\Debug\Mini-GameFinalFlappy.exe
+C:\Users\youss\Desktop\UNIVERSITY SHIT\YEAR 2\SEMESTER 2\CS232 - Multi-Media Programming\Projects\Mini-GameFinalFlappy\obj\Debug\Mini-GameFinalFlappy.pdb
+C:\Users\youss\Desktop\UNIVERSITY SHIT\YEAR 2\SEMESTER 2\CS232 - Multi-Media Programming\Projects\Mini-GameFinalFlappy\obj\Debug\Mini_GameFinalFlappy.BackgroundMap.resources
